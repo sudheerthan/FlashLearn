@@ -13,16 +13,6 @@ FlashLearn is a modern, intuitive flashcard application built with Flutter, desi
 -   **Bulk Add:** Quickly add multiple flashcards by pasting questions and answers in a simple format (Q,A per line).
 -   **Active/Completed Sections:** Organize your flashcards into active study and completed sections.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
--   [Flutter SDK](https://flutter.dev/docs/get-started/install)
--   [Dart SDK](https://dart.dev/get-started)
--   A code editor like [VS Code](https://code.visualstudio.com/) with the Flutter and Dart extensions.
-
 ## Project Structure
 
 ```
@@ -37,6 +27,9 @@ flash_learn/
 ├── pubspec.yaml              # Project dependencies and metadata
 └── README.md                 # This file
 ```
+## 📥 Download
+
+- 📱 [Download Android APK](https://github.com/sudheerthan/FlashLearn/releases/download/v1.0.0/flashlearn.apk)
 
 ## Contributing
 
